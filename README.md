@@ -24,11 +24,15 @@ AI/ML & Data Science
 # 💻 Coding Profiles
 <div align="center">
 
+### LeetCode Profile
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/tenkunga911?ext=heatmap)
 
-HackerRank Profile
 
-![HackerRank stats](https://raw.githubusercontent.com/<tampered-sin>/<profile-cards>/main/assets/hackerrank_card.svg)
+### HackerRank Profile
+
+![HackerRank stats](https://raw.githubusercontent.com/tampered-sin/profile-cards/main/assets/hackerrank_card.svg)
+
 
 
 </div>
