@@ -28,7 +28,7 @@ AI/ML & Data Science
 
 HackerRank Profile
 
-![HackerRank stats](https://raw.githubusercontent.com/<tampered-sin>/<profile-cards>/main/hackerrank_stats.png)
+![HackerRank stats](https://raw.githubusercontent.com/<tampered-sin>/<profile-cards>/main/assets/hackerrank_stats.png)
 
 
 </div>
