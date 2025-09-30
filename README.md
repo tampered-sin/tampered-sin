@@ -28,7 +28,8 @@ AI/ML & Data Science
 
 HackerRank Profile
 
-<img src="https://raw.githubusercontent.com/<tampered-sin>/<profile-cards>/main/assets/hackerrank_card.svg" alt="HackerRank stats" />
+![HackerRank stats](https://raw.githubusercontent.com/<tampered-sin>/<profile-cards>/main/hackerrank_stats.png)
+
 
 </div>
 💼 Experience
