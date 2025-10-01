@@ -55,6 +55,8 @@ I am a motivated and detail-oriented engineering student with a solid foundation
 
 ### 🏆 HackerRank Achievements
 
+[![HackerRank](https://hackerrank-badges.vercel.app/tenkunga911)](https://hackerrank.com/profile/tenkunga911)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-5★-306998?style=for-the-badge&logo=python&logoColor=FFD43B">
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-5★-306998?style=for-the-badge&logo=python&logoColor=FFD43B">
