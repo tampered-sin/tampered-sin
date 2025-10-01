@@ -55,8 +55,6 @@ I am a motivated and detail-oriented engineering student with a solid foundation
 
 ### 🏆 HackerRank Achievements
 
-[![HackerRank](https://hackerrank-badges.vercel.app/tenkunga911)](https://hackerrank.com/profile/tenkunga911)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-5★-306998?style=for-the-badge&logo=python&logoColor=FFD43B">
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-5★-306998?style=for-the-badge&logo=python&logoColor=FFD43B">
@@ -97,6 +95,15 @@ I am a motivated and detail-oriented engineering student with a solid foundation
 - ✅ Ensured code efficiency and reliability through comprehensive testing and debugging
 - 📝 Created detailed documentation for project workflows and procedures
 
+### AI&ML Intern | Elevate Labs
+**May 2025 - June 2025 | Remote**
+
+- Completed 8 structured tasks during your AIML internship (Task-1 → Task-8).
+- Worked mostly in Jupyter Notebooks (data preprocessing, ML model building, experimentation).
+- Built a Stock Price Prediction project using ML.
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tampered-sin&repo=Elevate-Labs-Tasks)](https://github.com/tampered-sin/Elevate-Labs-TasksE)
+
 ## 🎯 Featured Projects
 
 ### 🧪 Modern Periodic Table
@@ -109,10 +116,10 @@ A comprehensive periodic table application featuring an intuitive GUI built with
 
 Developed a feature-rich task management web application with secure user authentication (login/signup) and seamless cloud data storage using Supabase. The application features a clean, responsive interface optimized for productivity and user experience.
 
-### 🤖 Machine Learning Web App
-**Tech Stack:** Python, Streamlit
+📈 Stock Price Prediction
+Tech Stack: Python, Pandas, Scikit-learn, Matplotlib
 
-Built an interactive machine learning web application using Streamlit, demonstrating practical implementation of ML algorithms with user-friendly interfaces for data visualization and model interaction.
+Built a predictive model to forecast stock prices using historical market data. Implemented data preprocessing, feature engineering, and machine learning regression algorithms, with visualizations to analyze trends and model performance.
 
 ## 📚 Education & Certifications
 
@@ -140,6 +147,7 @@ When I'm not coding, you can find me:
 - ⚽ **Football** - Team collaboration and fitness
 - 🏀 **Basketball** - Quick decision making and coordination
 - 🎨 **Drawing** - Creative expression and attention to detail
+- 🏋️‍♂️ **Gym** - Dicipline and Health
 
 ## 📊 GitHub Statistics
 
@@ -149,10 +157,6 @@ When I'm not coding, you can find me:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tampered-sin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tampered-sin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🤝 Let's Connect
