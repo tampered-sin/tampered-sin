@@ -102,7 +102,7 @@ I am a motivated and detail-oriented engineering student with a solid foundation
 - Worked mostly in Jupyter Notebooks (data preprocessing, ML model building, experimentation).
 - Built a Stock Price Prediction project using ML.
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tampered-sin&repo=Elevate-Labs-Tasks)](https://github.com/tampered-sin/Elevate-Labs-TasksE)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tampered-sin&repo=Elevate-Labs-Tasks)](https://github.com/tampered-sin/Elevate-Labs-Tasks)
 
 ## 🎯 Featured Projects
 
