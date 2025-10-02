@@ -8,7 +8,7 @@
 
 I am a motivated and detail-oriented engineering student with a solid foundation in **Machine Learning** and **Python**, complemented by hands-on experience in version control systems and AI tools. I demonstrate strong problem-solving abilities and effective communication skills, honed through collaborative projects and academic coursework.
 
-- 🎓 Currently pursuing **B.Tech in CSE - AI & ML** at Jain (Deemed-to-be) University, Bangalore
+- 🎓 Currently pursuing **B.Tech in CSE - AI & ML** at Jain (Deemed-to-be) University, Bangalore (2023 - 2027)
 - 🌱 Learning and exploring the latest in **Artificial Intelligence** and **Machine Learning**
 - 💡 Passionate about applying technical knowledge to real-world challenges
 - 📍 Based in Mysore, Karnataka, India
