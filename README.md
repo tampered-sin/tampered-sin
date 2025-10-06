@@ -50,8 +50,6 @@ I am a motivated and detail-oriented engineering student with a solid foundation
 ### LeetCode Profile
 ![Leetcode Stats](https://leetcard.jacoblin.cool/tenkunga911?ext=heatmap)
 
-### HackerRank Profile
-![HackerRank stats](https://raw.githubusercontent.com/tampered-sin/profile-cards/main/assets/hackerrank_card.svg)
 
 ### 🏆 HackerRank Achievements
 
